@@ -1,0 +1,6 @@
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Busca\bin\Debug\Busca.dll
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Busca\bin\Debug\Busca.pdb
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Busca\obj\Debug\Busca.csprojResolveAssemblyReference.cache
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Busca\obj\Debug\Busca.csproj.CoreCompileInputs.cache
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Busca\obj\Debug\Busca.dll
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Busca\obj\Debug\Busca.pdb
